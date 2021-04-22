@@ -58,7 +58,7 @@ Tampilan di Browser
 ![Gambar 15](Screenshot/ss13.png)
 
 Code untuk Mengatur Layout "Main dan Sidebar"
-![Gambar 16](Screenshoot/ss14.png)
+![Gambar 16](Screenshot/ss14.png)
 
 Code "CSS" untuk Mengatur Layout "Main dan Sidebar"
 ![Gambar 17](Screenshot/ss15.png)
