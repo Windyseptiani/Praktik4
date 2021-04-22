@@ -26,7 +26,7 @@ Code untuk Mengatur "Clearfix Element"
 ![Gambar 5](Screenshot/ss3.png)
 
 Tampilan di Browser
-![Gambar 6](Screenhot/ss4.png)
+![Gambar 6](Screenshot/ss4.png)
 
 
 #### File lab4_layout.html
